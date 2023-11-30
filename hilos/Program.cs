@@ -9,11 +9,5 @@ class Program
         Thread jugadorThread = new Thread(jugador.Run);
         jugadorThread.Start();
 
-        
-
-        
-
-
-
     }
 }
